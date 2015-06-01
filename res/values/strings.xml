@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Downloader</string>
+    <string name="hint">Адрес</string>
+	<string name="go">-&gt;</string>
+</resources>
